@@ -3,8 +3,6 @@ import { View } from 'react-native';
 
 // import { Container } from './styles';
 
-const User = () => {
+export default function User() {
   return <View />;
-};
-
-export default User;
+}
